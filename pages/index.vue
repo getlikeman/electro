@@ -7,7 +7,7 @@ const items=ref(json.items)
 <template>
 <main>
   <div >
-    <video class='h-96 w-screen object-cover ' src="../asserts/pexels-cesar-casanova-6312477%20(2160p).mp4" loop muted autoplay ></video>
+    <video class='h-96 w-screen object-cover ' src="../assets/pexels-cesar-casanova-6312477%20(2160p).mp4" loop muted autoplay ></video>
     <span class="relative bottom-36 left-10 text-3xl text-black">Попробуйте электрокары нового поколения. Дешево и эффективно </span>
   </div>
   <h1 class="text-center text-4xl m-10">наша продукция</h1>
